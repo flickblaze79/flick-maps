@@ -1,0 +1,6 @@
+{
+  "name": "Flick Maps",
+  "description": "Premium 3D mapping and navigation platform with Mapbox, real-time GPS, place discovery, routes, and dark cinematic interface by Flick Web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
